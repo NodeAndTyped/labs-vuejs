@@ -1,17 +1,19 @@
 <template>
   <div id="app">
     <div>
-      <!-- your compoennt -->
+      <todos></todos>
     </div>
   </div>
 </template>
 
 <script>
-// import component todo
+import Todos from './components/todos'
 
 export default {
   name: 'app',
-  components: {}
+  components: {
+    Todos
+  }
 }
 </script>
 
