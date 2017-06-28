@@ -6,12 +6,13 @@
       <li>Créer une directive pour changer le "background color" d'une div qui contient un texte.</li>
       <li>Votre directive pourra avoir une couleur par défaut. Par exmple la couleur par défault sera: yellow</li>
       <li>Votre directive pourra aussi avoir comme argument la couleur de votre choix (dans le composant textComponent.vue un jeu de couleur est déjà renseigné dans l'object data)</li>
-      <li>Vous pourrez également remplacer le texte de votre div par "Mon texte est de couleur : la couleur que j'ai passé en arguments à ma directives".</li>
+      <li>Vous pourrez également remplacer le texte de votre div par "Mon texte est de couleur : la couleur que j'ai passé en arguments à ma directive".</li>
     </ul>
   </div>
 </template>
 
-<script>
+  <script>
+import { Background } from '../directives/backgroundDirectives.js'
 
 export default {
   name: 'textcomponent',
