@@ -9,4 +9,4 @@
 <br />
 
 [GitHub](https://github.com/NodeAndTyped/labs-vuejs/)
-[Get Started](#labs-vuejs)
+[Get Started](#présentation)

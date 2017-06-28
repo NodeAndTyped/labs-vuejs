@@ -8,5 +8,5 @@
 
 4) Vous pourrez également remplacer le texte de votre div par `Mon texte est de couleur :` la couleur que j'ai passé en arguments à ma directive.
 
-!> git checkout https://gitlab.com/linktogo/vuejs.git et prendre la branche [vuejs2-directive](https://gitlab.com/linktogo/vuejs/tree/vuejs2-directive)
+!> git checkout https://github.com/NodeAndTyped/labs-vuejs/tree/todo-list.git et prendre la branche [vuejs2-directive](https://github.com/NodeAndTyped/labs-vuejs/tree/todo-list/vuejs2-directive)
 

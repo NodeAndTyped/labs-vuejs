@@ -24,4 +24,4 @@
 
 12) Au blur, arrêter d’éditer le champs.
 
-!> git checkout https://gitlab.com/linktogo/vuejs.git et prendre la branche [vuejs2-exo-final](https://gitlab.com/linktogo/vuejs/tree/vuejs2-exo-final)
+!> git checkout https://github.com/nodeandtyped/labs-vuejs.git et prendre la branche [todo-list](https://github.com/NodeAndTyped/labs-vuejs/tree/todo-list)
