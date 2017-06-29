@@ -2,89 +2,25 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Lab Vue.js - by Valtech</title>
+  <title>Techday Vue.js 2 - by Valtech</title>
   <meta name="description" content="Présentation de Vue.js par Nicolas Martin et Fabien Brunet">
   <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@latest/lib/themes/buble.css" title="buble">
-  <style>
-    .app-nav a.logo {
-      float: left;
-      z-index: 1;
-      height: 20px;
-      display: block;
-      margin-top: -10px;
-    }
-
-    .app-nav a.logo img {
-      width: 200px;
-      color: white;
-    }
-
-    section.cover {
-      color: white;
-      background: linear-gradient(to bottom, #399d79 0%, #354e62 50%) !important
-    }
-
-    section.cover blockquote {
-      color: #00bdfa;
-    }
-
-    section.cover h1 .anchor span {
-      color: white
-    }
-
-    section.cover .cover-main > p:last-child a {
-      border-color: white;
-      color: white
-    }
-
-    section.cover .cover-main > p:last-child a:hover {
-      background: white;
-      color: #337ab7;
-    }
-
-    section.cover .cover-main > p:last-child a:last-child {
-      color: #111;
-      border-color: #00bdfa;
-      background-color: #00bdfa;
-    }
-
-    .github-corner svg {
-      color: #fff;
-      fill: #00bdfa;
-      fill: var(--theme-color, #00bdfa);
-      height: 80px;
-      width: 80px;
-    }
-
-    .authors {
-      text-align: center;
-    }
-    .authors-badge {
-      display: inline-block;
-      width: 200px;
-      margin:20px;
-    }
-    .authors-badge img {
-      border-radius: 100%;
-      overflow: hidden;
-      display: block;
-      width:100%;
-      margin-bottom: 20px;
-    }
-  </style>
+  <link href="//fonts.googleapis.com/css?family=Merriweather:400,300,700" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" type="text/css" href="_css/valtech.css">
+  <link rel="stylesheet" type="text/css" href="_css/main.css">
 </head>
 <body>
 <nav>
-  <a href="/" class="logo"><img src="_media/nodetyped.svg"></a>
+  <a href="https://valtech.fr" class="logo"><i class="valtech-logo glyph" data-icon="valtech-logo"></i><span>TechDay</span></a>
 </nav>
 <div id="app">Loading ...</div>
 </body>
 <script>
   window.$docsify = {
     name: 'Labs Vue.js',
-    repo: 'http://github.com/NodeAndTyped/labs-vuejs',
+    repo: 'http://github.com/NodeAndTyped/techday-vuejs',
     auto2top: true,
     coverpage: true,
     executeScript: true,
@@ -104,7 +40,7 @@
     plugins: [
       function (hook, vm) {
         hook.beforeEach(function (html) {
-          var url = 'http://github.com/NodeAndTyped/labs-vuejs/blob/master/docs/' + vm.route.file
+          var url = 'http://github.com/NodeAndTyped/techday-vuejs/blob/master/docs/' + vm.route.file
           var editHtml = '[:memo: Edit Document](' + url + ')\n'
 
           return editHtml

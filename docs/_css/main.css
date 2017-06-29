@@ -1,0 +1,71 @@
+.app-nav a.logo {
+    float: left;
+    z-index: 1;
+    height: 20px;
+    display: block;
+    margin-top: -10px;
+}
+.app-nav a.logo {
+    color: #1a1a1a;
+    font-size: 1.6rem;
+}
+.app-nav a.logo span {
+    margin-left: 10px;
+}
+.app-nav a.logo img {
+    width: 200px;
+    color: white;
+}
+
+section.cover {
+    color: white;
+    background: linear-gradient(to bottom, #399d79 0%, #354e62 50%) !important
+}
+
+section.cover blockquote {
+    color: #00bdfa;
+}
+
+section.cover h1 .anchor span {
+    color: white
+}
+
+section.cover .cover-main > p:last-child a {
+    border-color: white;
+    color: white
+}
+
+section.cover .cover-main > p:last-child a:hover {
+    background: white;
+    color: #337ab7;
+}
+
+section.cover .cover-main > p:last-child a:last-child {
+    color: #111;
+    border-color: #00bdfa;
+    background-color: #00bdfa;
+}
+
+.github-corner svg {
+    color: #fff;
+    fill: #00bdfa;
+    fill: var(--theme-color, #00bdfa);
+    height: 80px;
+    width: 80px;
+}
+
+.authors {
+    text-align: center;
+}
+.authors-badge {
+    display: inline-block;
+    width: 200px;
+    margin:20px;
+}
+.authors-badge img {
+    border-radius: 100%;
+    overflow: hidden;
+    display: block;
+    width:100%;
+    margin-bottom: 20px;
+}

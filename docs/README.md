@@ -9,7 +9,7 @@ Retrouvez les slides du cours en [téléchargement](https://nodeandtyped.github.
 
 ## Objectifs
 
-Le labs a pour objectif de vous présenter les différentes fonctionnalités de Vue.js. Au programme :
+Cette présentation technique a pour objectif de vous présenter les différentes fonctionnalités de Vue.js. Au programme :
 
 - Mise en place de l'environnement,
 - Développement d'une application,

@@ -2,7 +2,8 @@
 
 ![logo](_media/vuejs.svg)
 
-# Labs Vue.js <small>by Valtech</small>
+# Vue.js <small>2</small>
+
 
 - Fabien Brunet -  Nicolas Martin
 

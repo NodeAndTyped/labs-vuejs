@@ -1,7 +1,7 @@
 Guide
 ## Lancer le projet
 
-Récupérer le projet [https://github.com/NodeAndTyped/labs-vuejs](https://github.com/NodeAndTyped/labs-vuejs)
+Récupérer le projet [https://github.com/NodeAndTyped/techday-vuejs](https://github.com/NodeAndTyped/techday-vuejs)
 
 ``` bash
 # install dependencies
