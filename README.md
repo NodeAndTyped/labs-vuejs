@@ -1,6 +1,9 @@
 # Présentation
 
-LOREM IPSUM
+
+Vue.js 2 est l'un des outsider actuel des frameworks Front. Nous vous proposons
+de découvrir ces quelques fonctionnalités de Vue.js au travers d'un cours technique et deux TP. 
+
 
 ## Supports
 
