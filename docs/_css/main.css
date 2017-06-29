@@ -38,19 +38,24 @@ section.cover .cover-main > p:last-child a {
 
 section.cover .cover-main > p:last-child a:hover {
     background: white;
-    color: #337ab7;
+    color: #399d79;
 }
 
 section.cover .cover-main > p:last-child a:last-child {
-    color: #111;
-    border-color: #00bdfa;
-    background-color: #00bdfa;
+    color: #399d79;
+    border-color: white;
+    background-color: white;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+}
+
+section.cover .cover-main > p:last-child a:last-child:hover {
+    color: #399d79;
 }
 
 .github-corner svg {
-    color: #fff;
-    fill: #00bdfa;
-    fill: var(--theme-color, #00bdfa);
+    color: white;
+    fill: #399d79;
+    fill: var(--theme-color, #399d79);
     height: 80px;
     width: 80px;
 }

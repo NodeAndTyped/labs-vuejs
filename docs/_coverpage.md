@@ -9,5 +9,5 @@
 
 <br />
 
-[GitHub](https://github.com/NodeAndTyped/labs-vuejs/)
+[GitHub](https://github.com/NodeAndTyped/techday-vuejs/)
 [Get Started](#présentation)
