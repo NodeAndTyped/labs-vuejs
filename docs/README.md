@@ -5,7 +5,7 @@ de découvrir ces quelques fonctionnalités de Vue.js au travers d'un cours tech
 
 ## Support
 
-Retrouvez les slides du cours en [téléchargement](https://nodeandtyped.github.io/NodeAndTyped/labs-vuejs/_supports/slides.pptx).
+Retrouvez les slides du cours en [téléchargement](https://nodeandtyped.github.io/NodeAndTyped/techday-vuejs/_supports/slides.pptx).
 
 ## Objectifs
 
